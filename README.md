@@ -27,3 +27,16 @@ The deployed tool is available at: https://weight-management-support-tool.stream
 Two interpretable classifiers, Logistic Regression and Decision Tree, were trained to predict whether a demographic subgroup exhibits above-average obesity, achieving stable cross-validated accuracies of 0.807 and 0.784 respectively. Physical inactivity, socioeconomic class and ethnicity were identified as the strongest predictors.
 
 ## Running locally
+
+​```
+pip install -r requirements.txt
+streamlit run app.py
+​```
+
+## Data source
+
+Data was obtained from the OHID Fingertips platform, with indicators derived from the Sport England Active Lives Adult Survey. The data comprises publicly available population-level aggregates and contains no personal data.
+
+## Author
+
+Christabel Muolokwu
