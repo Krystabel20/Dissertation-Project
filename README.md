@@ -20,7 +20,6 @@ The deployed tool is available at: https://weight-management-support-tool.stream
 - `gantt_chart.py` — generates the project timeline chart
 - `Analysis.ipynb` — exploratory data analysis and machine learning models
 - `data` — the folder that holds both the raw and processed analytical dataset
-- `raw` - the raw data taken from OHID website
 - `requirements.txt` — Python dependencies
 
 ## Methods
