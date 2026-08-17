@@ -25,7 +25,7 @@ The deployed tool is available at: https://weight-management-support-tool.stream
 
 ## Methods
 
-Two interpretable classifiers, Logistic Regression and Decision Tree, were trained to predict whether a demographic subgroup exhibits above-average obesity, achieving stable cross-validated accuracies of 0.807 and 0.784 respectively. Physical inactivity, socioeconomic class and ethnicity were identified as the strongest predictors.
+Two interpretable classifiers, Logistic Regression and Decision Tree, were trained to predict whether a demographic subgroup exhibits above-average obesity, achieving stable cross-validated accuracy mean of 0.807 and 0.784 respectively. Physical inactivity, socioeconomic class and ethnicity were identified as the strongest predictors.
 
 ## Running locally
 
