@@ -18,8 +18,9 @@ The deployed tool is available at: https://weight-management-support-tool.stream
 - `data_preparation.py` — the data preparation pipeline that reshapes the raw indicator extract into the analytical dataset
 - `test_routing.py` — the test suite validating the tool's routing logic
 - `gantt_chart.py` — generates the project timeline chart
-- `analysis.ipynb` — exploratory data analysis and machine learning models
-- `data/` — the processed analytical dataset
+- `Analysis.ipynb` — exploratory data analysis and machine learning models
+- `processed` — the processed analytical dataset
+- 'raw' - the raw data taken from OHID website
 - `requirements.txt` — Python dependencies
 
 ## Methods
